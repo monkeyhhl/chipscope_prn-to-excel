@@ -1,0 +1,2 @@
+# chipscope_prn-to-excel
+将多个Xilinx Chipscope输出的ASCII格式文件转到一个excel文件中
